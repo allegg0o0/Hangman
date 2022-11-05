@@ -1,2 +1,10 @@
 *Makefile~
+*main
+*obj/src/hangman/*.d
+*obj/src/hangman/*.o
+*obj/src/libhangman/*.d
+*obj/src/libhangman/*.o
+*obj/src/libhangman/libhangman.a
+*obj/test*.o
+*obj/test*.d
 
